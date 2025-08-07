@@ -73,7 +73,7 @@
 
 ## 📥 Getting Started
 
-### 1. Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/MalikAdilll/Nimbus.git
 cd Nimbus
