@@ -89,11 +89,11 @@ npx expo start
   <table>
     <tr>
       <td><a href="assets/screenshots/1.jpeg"><img src="assets/screenshots/1.jpeg" height="300"/></a></td>
-      <td><a href="assets/screenshots/2.jpeg"><img src="assets/screenshots/2.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/4.jpeg"><img src="assets/screenshots/4.jpeg" height="300"/></a></td>
       <td><a href="assets/screenshots/3.jpeg"><img src="assets/screenshots/3.jpeg" height="300"/></a></td>
     </tr>
     <tr>
-      <td><a href="assets/screenshots/4.jpeg"><img src="assets/screenshots/4.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/2.jpeg"><img src="assets/screenshots/2.jpeg" height="300"/></a></td>
       <td><a href="assets/screenshots/5.jpeg"><img src="assets/screenshots/5.jpeg" height="300"/></a></td>
       <td><a href="assets/screenshots/6.jpeg"><img src="assets/screenshots/6.jpeg" height="300"/></a></td>
     </tr>
