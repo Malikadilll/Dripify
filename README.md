@@ -88,24 +88,24 @@ npx expo start
 <div align="center">
   <table>
     <tr>
-      <td><a href="screenshots/1.jpeg"><img src="screenshots/1.jpeg" height="300"/></a></td>
-      <td><a href="screenshots/2.jpeg"><img src="screenshots/2.jpeg" height="300"/></a></td>
-      <td><a href="screenshots/3.jpeg"><img src="screenshots/3.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/1.jpeg"><img src="assets/screenshots/1.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/2.jpeg"><img src="assets/screenshots/2.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/3.jpeg"><img src="assets/screenshots/3.jpeg" height="300"/></a></td>
     </tr>
     <tr>
-      <td><a href="screenshots/4.jpeg"><img src="screenshots/4.jpeg" height="300"/></a></td>
-      <td><a href="screenshots/5.jpeg"><img src="screenshots/5.jpeg" height="300"/></a></td>
-      <td><a href="screenshots/6.jpeg"><img src="screenshots/6.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/4.jpeg"><img src="assets/screenshots/4.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/5.jpeg"><img src="assets/screenshots/5.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/6.jpeg"><img src="assets/screenshots/6.jpeg" height="300"/></a></td>
     </tr>
     <tr>
-      <td><a href="screenshots/7.jpeg"><img src="screenshots/7.jpeg" height="300"/></a></td>
-      <td><a href="screenshots/8.jpeg"><img src="screenshots/8.jpeg" height="300"/></a></td>
-      <td><a href="screenshots/9.jpeg"><img src="screenshots/9.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/7.jpeg"><img src="assets/screenshots/7.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/8.jpeg"><img src="assets/screenshots/8.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/9.jpeg"><img src="assets/screenshots/9.jpeg" height="300"/></a></td>
     </tr>
     <tr>
-      <td><a href="screenshots/10.jpeg"><img src="screenshots/10.jpeg" height="300"/></a></td>
-      <td><a href="screenshots/11.jpeg"><img src="screenshots/11.jpeg" height="300"/></a></td>
-      <td><a href="screenshots/12.jpeg"><img src="screenshots/12.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/10.jpeg"><img src="assets/screenshots/10.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/11.jpeg"><img src="assets/screenshots/11.jpeg" height="300"/></a></td>
+      <td><a href="assets/screenshots/12.jpeg"><img src="assets/screenshots/12.jpeg" height="300"/></a></td>
     </tr>
   </table>
 </div>
