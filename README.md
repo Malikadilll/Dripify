@@ -64,7 +64,7 @@
 - **Firebase**
   - Authentication
   - Firestore (Database)
-  - Firebase Storage
+- **Coudinary** (Image storage)
 - **Lottie** (React Native Lottie)
 - **React Navigation**
 - **Ionicons**
