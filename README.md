@@ -76,7 +76,7 @@
 ### Clone the Repository
 ```bash
 git clone https://github.com/MalikAdilll/Nimbus.git
-cd Nimbus
+cd Dripify
 npm install
 npx expo start
 
